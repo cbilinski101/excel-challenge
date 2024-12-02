@@ -35,13 +35,16 @@ This project analyzes data from crowdfunding campaigns to identify trends, succe
 
 ### 1. Currency Pivot Table/Graph
 - Shows USD as the most popular currency, followed by CAD.
+![image](https://github.com/user-attachments/assets/f3718e3a-776f-4d1d-b09b-71c3c14c180e)
 
 ### 2. Staff Pick & Spotlight
 - Highlights that spotlight and staff pick campaigns were not highly effective for backers in the 6000–7999 range.
+![image](https://github.com/user-attachments/assets/14b2b102-4c7a-4e6d-88e8-220f2ddd1f49)
 
 ### 3. Currency Exchange Conversion
 - A dedicated dataset compares donation outcomes across currencies converted to USD.
 - The "USD Comparison" tab showcases how currency impacts average donations.
+![image](https://github.com/user-attachments/assets/f80ad132-41af-4518-b895-1f715195617e)
 
 ---
 
