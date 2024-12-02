@@ -44,6 +44,7 @@ This project analyzes data from crowdfunding campaigns to identify trends, succe
 ### 3. Currency Exchange Conversion
 - A dedicated dataset compares donation outcomes across currencies converted to USD.
 - The "USD Comparison" tab showcases how currency impacts average donations.
+  
 ![image](https://github.com/user-attachments/assets/f80ad132-41af-4518-b895-1f715195617e)
 
 ---
@@ -61,22 +62,9 @@ This project analyzes data from crowdfunding campaigns to identify trends, succe
 
 ---
 
-## Future Enhancements
-
-- **Dynamic Currency Conversion**: Include live exchange rates for more accurate USD conversions.
-- **Detailed Sub-category Analysis**: Expand data for underrepresented sub-categories.
-- **Blurb Analysis**: Conduct text analysis to understand the role of campaign descriptions.
-
----
-
 ## How to Use
 
 1. Open the Excel file.
 2. Navigate through the sheets for detailed insights.
 3. Use the visualizations and analysis tabs for trend exploration.
 4. Review the USD Comparison tab for insights into currency impact.
-
----
-
-## Contact
-For further inquiries or collaboration, feel free to reach out!
