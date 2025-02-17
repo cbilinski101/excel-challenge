@@ -68,3 +68,10 @@ This project analyzes data from crowdfunding campaigns to identify trends, succe
 2. Navigate through the sheets for detailed insights.
 3. Use the visualizations and analysis tabs for trend exploration.
 4. Review the USD Comparison tab for insights into currency impact.
+
+## Acknowledgments
+
+This project was developed with the assistance of the following resources:
+
+- **"U of T" (Turtoring Session - Xpert Learning Assistant - GitLab Activites)** – Provided guidance on code and explanations.
+- **ChatGPT** – Assisted with code, explanations, and README formatting. 
